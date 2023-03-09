@@ -1,4 +1,4 @@
-f = open("lab6/files/student_info.txt", "r")
+f = open("sis6/files/student_info.txt", "r")
 ctr = 0
 for x in f:
     ctr += 1
